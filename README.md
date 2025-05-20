@@ -1,4 +1,4 @@
-# news-sentiment-stock-impact
+
 # 📰📈 News Sentiment & Stock Impact Analysis
 
 A project that explores the relationship between financial news sentiment and short-term stock price movements using NLP and statistical analysis.
